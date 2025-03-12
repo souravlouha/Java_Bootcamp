@@ -2,11 +2,11 @@
 #
 #
 ### Using Xampp we can perform all the MySql programs
-### for using Xampp we have to atfirst download it. After opening it the following control panel pops up we have to start the apache and my sql programs and after that click on the admit as shown in the image below
+### for using Xampp we have to atfirst download it. After opening it the following control panel pops up we have to start the apache and MySQL programs and after that click on the admit as shown in the image below
 ![Screenshot (37)](https://github.com/user-attachments/assets/d27379c1-3d77-4de4-972f-3c4b7e16f2c2)
 ### After clicking on admit option the following page opens
 ![Screenshot (38)](https://github.com/user-attachments/assets/fc05c6ee-c202-4526-a723-3ab036f59ca4)
-### In this image we have to created a database for my sql program for that we have to go to the new option then give a name to the database and press the create button
+### In this image we have to created a database for MySQL program for that we have to go to the new option then give a name to the database and press the create button
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/f65698c7-2236-4dd4-bb88-8ae510a141cd)
 ### The database 'Teacher' created as shown in the image below
