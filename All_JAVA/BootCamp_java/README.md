@@ -1,4 +1,4 @@
-### 01 MySQL_Using_XAMPP -> "https://github.com/souravlouha/Java_Bootcamp/tree/main/All_JAVA/BootCamp_java/MySQL_Using_XAMPP_DataBase"
+### 01 MySQL_Using_XAMPP 
 ### 02 Creating WebPage Using NetBeams
 ### 03 Backend Connect to Database
 ### 04 Through WebPage Uploding Data to Database
