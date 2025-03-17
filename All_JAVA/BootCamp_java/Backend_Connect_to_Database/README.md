@@ -1,4 +1,4 @@
-# Backend_Connect_to_Database
+# Backend_Connect_to_Database(static)
 ### Using java program and taking input from the user , students basic details update to Database.
 ### Here the backend Java code is linked to the database.
 ### Tools Required for project -> 1.Eclipse IDE or Eclipse workspace ; 2.using XAMPP as the Database
