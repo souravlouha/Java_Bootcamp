@@ -78,8 +78,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "e:/Code Playground/start from NEW/js_tutorial/CPP_OOPS/Classes_Objects",
+      "program": "e:/Code Playground/start from NEW/js_tutorial/CPP_OOPS/Classes_Objects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
